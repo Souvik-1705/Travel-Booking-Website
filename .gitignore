@@ -1,0 +1,5 @@
+travel-admin/node_modules/
+travel-user/node_modules/
+travel-admin/dist/
+travel-user/dist/
+.env
